@@ -3,9 +3,9 @@ message: "If you use this code or these results, please cite the associated arti
 title: "Reproduction code for: Behavioural operational design domains for automated driving systems: modelling population shift and safety calibration"
 type: software
 authors:
-  - family-names: Labbo
-    given-names: Muwaffaq Safiyanu
-    affiliation: "China Three Gorges University; Aliko Dangote University of Science and Technology, Wudil"
+  - family-names: x
+    given-names: x
+    affiliation: "x"
   # Add co-authors here in the same format.
 version: 1.0.0
 license: MIT
