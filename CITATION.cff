@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: Labbo
     given-names: Muwaffaq Safiyanu
-    affiliation: "China Three Gorges University"
+    affiliation: "China Three Gorges University; Aliko Dangote University of Science and Technology, Wudil"
   # Add co-authors here in the same format.
 version: 1.0.0
 license: MIT
